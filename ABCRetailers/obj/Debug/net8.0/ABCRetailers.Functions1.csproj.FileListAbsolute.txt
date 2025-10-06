@@ -1,0 +1,6 @@
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.AssemblyInfo.cs
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\obj\Debug\net8.0\ABCRetailers.Functions1.sourcelink.json
