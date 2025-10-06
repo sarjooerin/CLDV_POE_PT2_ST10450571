@@ -1,0 +1,63 @@
+/* Buttons */
+.btn {
+    font-weight: 600;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    color: white !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Primary - Blue Gradient */
+.btn-primary {
+    background: linear-gradient(45deg, #1E90FF, #00BFFF);
+    border: none;
+}
+
+    .btn-primary:hover {
+        background: linear-gradient(45deg, #00BFFF, #1E90FF);
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    }
+
+/* Success - Green Gradient */
+.btn-success {
+    background: linear-gradient(45deg, #28A745, #2ECC71);
+    border: none;
+}
+
+    .btn-success:hover {
+        background: linear-gradient(45deg, #2ECC71, #28A745);
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    }
+
+/* Warning - Orange Gradient */
+.btn-warning {
+    background: linear-gradient(45deg, #FFC107, #FF8C00);
+    border: none;
+    color: #1C1C1C !important;
+}
+
+    .btn-warning:hover {
+        background: linear-gradient(45deg, #FF8C00, #FFC107);
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    }
+
+/* Info - Red/Pink Gradient */
+.btn-info {
+    background: linear-gradient(45deg, #FF6F61, #FF3B30);
+    border: none;
+}
+
+    .btn-info:hover {
+        background: linear-gradient(45deg, #FF3B30, #FF6F61);
+        transform: translateY(-4px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+    }
+
+/* Buttons Focus */
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.15rem rgba(255,255,255,0.5), 0 0 0 0.3rem rgba(30,144,255,0.6);
+}
