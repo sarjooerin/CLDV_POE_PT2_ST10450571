@@ -1,3 +1,4 @@
+wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -60,7 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\site.css
+C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\css\site.css
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\favicon.ico
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\js\site.js
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -122,4 +123,3 @@ C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\lib\jquery\dist\j
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\lib\jquery\dist\jquery.slim.min.js
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\lib\jquery\dist\jquery.slim.min.map
 C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\lib\jquery\LICENSE.txt
-C:\Users\lab_services_student\Videos\all2\ABCRetailers\wwwroot\css\site.css
